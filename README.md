@@ -1,2 +1,2 @@
-# JAVA-OOP-Pandas
-Pandas Library(only using JAVA)
+# JAVA-OOP-Pandas-clone
+Pandas Library clone for studying JAVA(only using JAVA)
